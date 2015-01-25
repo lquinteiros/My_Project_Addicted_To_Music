@@ -22,7 +22,6 @@ CREATE DATABASE IF NOT EXISTS `addictedtomusic` DEFAULT CHARACTER SET latin1 COL
 USE `addictedtomusic`;
 
 -- --------------------------------------------------------
-
 --
 -- Estrutura da tabela `wp_commentmeta`
 --
