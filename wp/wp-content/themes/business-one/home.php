@@ -17,6 +17,8 @@
 			<?php if(is_active_sidebar('sidebar')){ ?>
 			
 			<div class="col-sm-8">
+			
+			<div class="imgtop">&nbsp;</div>
 
 			<?php }else{ ?>
 
